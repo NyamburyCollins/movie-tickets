@@ -1,6 +1,6 @@
 # movie-tickets
 Movie Tickets
-Author : Lorraine Kupa
+Author : Collins Nyambury
 PROJECT DESCRIPTION
 This is an application that allows a user to purchase movie tickets from the theater.
 
