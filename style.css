@@ -28,7 +28,7 @@ body {
     text-decoration: none;
   }
   .sidebar a.active {
-    background-color: #aa04a2;
+    background-color: #f5edf4;
     color: rgb(255, 255, 255);
   }
   .sidebar a:hover:not(.active) {
